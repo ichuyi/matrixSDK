@@ -1,0 +1,25 @@
+﻿<Properties>
+  <MonoDevelop.Ide.ItemProperties.matrixSDK FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="matrixSDK/MyClass.cs">
+    <Files>
+      <File FileName="matrixSDK/MyClass.cs" Line="74" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="matrixSDK" expanded="True">
+            <Node name="matrixSDK" expanded="True">
+              <Node name="MyClass.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
