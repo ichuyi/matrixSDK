@@ -92,6 +92,7 @@ namespace matrixSDK
                     return false;
                 }
             }
+            command = command.Replace("0", "2");
             this.SendMessage(command + " ");
             return true;
         }
